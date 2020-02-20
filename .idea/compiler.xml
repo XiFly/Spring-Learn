@@ -9,12 +9,14 @@
         <module name="accessing-data-jdbc" />
         <module name="accessing-data-jpa" />
         <module name="scheduling-tasks" />
+        <module name="uploading-files" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="accessing-data-jdbc" target="1.8" />
       <module name="accessing-data-jpa" target="1.8" />
       <module name="scheduling-tasks" target="1.8" />
+      <module name="uploading-files" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -22,6 +24,7 @@
       <module name="accessing-data-jdbc" options="-parameters" />
       <module name="accessing-data-jpa" options="-parameters" />
       <module name="scheduling-tasks" options="-parameters" />
+      <module name="uploading-files" options="-parameters" />
     </option>
   </component>
 </project>
