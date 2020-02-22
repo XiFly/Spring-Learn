@@ -11,6 +11,7 @@
         <module name="messaging-rabbitmq" />
         <module name="messaging-redis" />
         <module name="scheduling-tasks" />
+        <module name="springboot-send-mail" />
         <module name="uploading-files" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="messaging-rabbitmq" target="1.8" />
       <module name="messaging-redis" target="1.8" />
       <module name="scheduling-tasks" target="1.8" />
+      <module name="springboot-send-mail" target="1.8" />
       <module name="uploading-files" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -30,6 +32,7 @@
       <module name="messaging-rabbitmq" options="-parameters" />
       <module name="messaging-redis" options="-parameters" />
       <module name="scheduling-tasks" options="-parameters" />
+      <module name="springboot-send-mail" options="-parameters" />
       <module name="uploading-files" options="-parameters" />
     </option>
   </component>
