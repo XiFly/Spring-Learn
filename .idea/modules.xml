@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Learn2.iml" filepath="$PROJECT_DIR$/.idea/Spring-Learn2.iml" />
       <module fileurl="file://$PROJECT_DIR$/accessing-data-jdbc/accessing-data-jdbc.iml" filepath="$PROJECT_DIR$/accessing-data-jdbc/accessing-data-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/accessing-data-jpa/accessing-data-jpa.iml" filepath="$PROJECT_DIR$/accessing-data-jpa/accessing-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging-rabbitmq/messaging-rabbitmq.iml" filepath="$PROJECT_DIR$/messaging-rabbitmq/messaging-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/messaging-redis/messaging-redis.iml" filepath="$PROJECT_DIR$/messaging-redis/messaging-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" filepath="$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/uploading-files/uploading-files.iml" filepath="$PROJECT_DIR$/uploading-files/uploading-files.iml" />

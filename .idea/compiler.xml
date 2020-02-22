@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="accessing-data-jdbc" />
         <module name="accessing-data-jpa" />
+        <module name="messaging-rabbitmq" />
         <module name="messaging-redis" />
         <module name="scheduling-tasks" />
         <module name="uploading-files" />
@@ -16,6 +17,7 @@
     <bytecodeTargetLevel>
       <module name="accessing-data-jdbc" target="1.8" />
       <module name="accessing-data-jpa" target="1.8" />
+      <module name="messaging-rabbitmq" target="1.8" />
       <module name="messaging-redis" target="1.8" />
       <module name="scheduling-tasks" target="1.8" />
       <module name="uploading-files" target="1.8" />
@@ -25,6 +27,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="accessing-data-jdbc" options="-parameters" />
       <module name="accessing-data-jpa" options="-parameters" />
+      <module name="messaging-rabbitmq" options="-parameters" />
       <module name="messaging-redis" options="-parameters" />
       <module name="scheduling-tasks" options="-parameters" />
       <module name="uploading-files" options="-parameters" />
