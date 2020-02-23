@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/messaging-redis/pom.xml" />
         <option value="$PROJECT_DIR$/messaging-rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-send-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-caching/pom.xml" />
       </list>
     </option>
   </component>
