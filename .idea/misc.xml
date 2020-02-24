@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/messaging-rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-send-mail/pom.xml" />
         <option value="$PROJECT_DIR$/spring-caching/pom.xml" />
+        <option value="$PROJECT_DIR$/accessing-data-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/messaging-stomp-websocket/pom.xml" />
       </list>
     </option>
   </component>

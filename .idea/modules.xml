@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Learn2.iml" filepath="$PROJECT_DIR$/.idea/Spring-Learn2.iml" />
       <module fileurl="file://$PROJECT_DIR$/accessing-data-jdbc/accessing-data-jdbc.iml" filepath="$PROJECT_DIR$/accessing-data-jdbc/accessing-data-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/accessing-data-jpa/accessing-data-jpa.iml" filepath="$PROJECT_DIR$/accessing-data-jpa/accessing-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessing-data-mysql/accessing-data-mysql.iml" filepath="$PROJECT_DIR$/accessing-data-mysql/accessing-data-mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/messaging-rabbitmq/messaging-rabbitmq.iml" filepath="$PROJECT_DIR$/messaging-rabbitmq/messaging-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/messaging-redis/messaging-redis.iml" filepath="$PROJECT_DIR$/messaging-redis/messaging-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging-stomp-websocket/messaging-stomp-websocket.iml" filepath="$PROJECT_DIR$/messaging-stomp-websocket/messaging-stomp-websocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" filepath="$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-caching/spring-caching.iml" filepath="$PROJECT_DIR$/spring-caching/spring-caching.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-send-mail/springboot-send-mail.iml" filepath="$PROJECT_DIR$/springboot-send-mail/springboot-send-mail.iml" />
